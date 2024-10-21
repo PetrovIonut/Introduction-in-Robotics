@@ -37,9 +37,9 @@ Charging Station Project in Arduino
   ![IMG20241021222520](https://github.com/user-attachments/assets/cbfd9485-80c0-49e9-ba6b-66d3f6e82e6d)
   ![IMG20241021222506](https://github.com/user-attachments/assets/a7a4875a-8dd2-423a-9548-0029eee54919)
 
-  Video testing functionality : https://youtu.be/DCAiC-eodbA
+  Video testing functionality : https://youtu.be/YnEYB3pL970
   
-  Electrical scheme in Tinkercad : https://www.tinkercad.com/things/562FGQMi8ND/editel
+  Electrical scheme in Tinkercad : https://www.tinkercad.com/things/562FGQMi8ND/editel?sharecode=QGSDz74NoYW0Xm4GzCPRkDmwgFd_ROyZJrkqKlnHQYk
 
   
   
